@@ -1,0 +1,4 @@
+url,search selector,main selector,stopper
+https://www.film2media.pw/?s=,h2 a,p~ p+ p,na
+https://filmin.info/?blogs=1%2C5&s=,.entry-title a,".su-spoiler-title , .fasc-size-small",na
+http://myhastidl7.top/?s=,h1 a,".main-content h3 , h3~ p",yes
